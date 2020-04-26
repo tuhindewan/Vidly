@@ -1,0 +1,13 @@
+Metadata-Version: 1.1
+Name: testypie
+Version: 1.0.0
+Summary: HTTP proxy that generates and loads from fixtures for testing.
+Home-page: http://github.com/avengerpenguin/testypie
+Author: Ross Fenning
+Author-email: ross.fenning@gmail.com
+License: GPLv3+
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
